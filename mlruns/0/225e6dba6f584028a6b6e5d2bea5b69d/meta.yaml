@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/syed%20PC/Documents/cancerproj/mlruns/0/225e6dba6f584028a6b6e5d2bea5b69d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 225e6dba6f584028a6b6e5d2bea5b69d
+run_name: languid-ray-651
+run_uuid: 225e6dba6f584028a6b6e5d2bea5b69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741611940845
+status: 1
+tags: []
+user_id: syed PC
